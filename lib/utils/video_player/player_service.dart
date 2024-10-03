@@ -1,0 +1,4 @@
+
+class VideoPlayerService {
+  // void ensurec
+}
